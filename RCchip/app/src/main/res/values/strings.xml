@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RCchip</string>
+    <string name="SMOKE">SMOKE</string>
+    <string name="CONNECT">CONNECT</string>
+    <string name="backward">BACKWARD</string>
+    <string name="forward">FORWARD</string>
+    <string name="right">RIGHT</string>
+    <string name="left">LEFT</string>
+</resources>
